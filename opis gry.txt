@@ -1,0 +1,6 @@
+Nasza innowacyjna gra Egg Collectors polega na zbieraniu jajek poruszając się po planszy. Na drodze zająca można spotkać takie
+utrudnienia jak miny latające po mapie. Nasza gra zawiera innowacyjne technologie i jest w 100% napisana w czystym JS.
+Autorzy gry:
+Krzysztof Paździor "Sigma"
+Jakub Stopa "Murzyn"
+Mateusz Sycz "Smyczx"
